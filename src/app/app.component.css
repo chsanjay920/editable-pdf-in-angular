@@ -1,0 +1,19 @@
+.pdf-viewer {
+  height: 100vh;
+  width: 100vw;
+}
+.container {
+  margin: 2rem;
+  display: flex;
+  justify-content: center;
+}
+#input-form {
+    position: absolute;
+    z-index: 1;
+}
+
+#input-form:input{
+  position: absolute;
+  background: transparent;
+  border: 1px solid red;
+}
