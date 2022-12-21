@@ -1,6 +1,6 @@
 # Editable pdf in angular
 
-Filling & fetching input values from a editable pdf file using ng2-pdf-viewer  
+Filling & Fetching input feilds from a editable pdf file using ng2-pdf-viewer  
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
 
